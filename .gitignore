@@ -55,6 +55,13 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# Firebase, Plugins
+/Assets/Firebase/
+/Assets/Plugins/
+/Assets/Resource/
+/Assets/GooglePlayGames/
+
+
 # Crashlytics generated file
 crashlytics-build.properties
 

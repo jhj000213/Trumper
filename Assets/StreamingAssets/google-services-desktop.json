@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696212074153",
+    "firebase_url": "https://trumper-d8030.firebaseio.com",
+    "project_id": "trumper-d8030",
+    "storage_bucket": "trumper-d8030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696212074153:android:ecf951fa22debcf19783b8",
+        "android_client_info": {
+          "package_name": "com.jhj.trumper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696212074153-ofejpdjik32d1oa7qsjggpqv19qrqa6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhj.trumper",
+            "certificate_hash": "4dfcd6fe05b858f53b7089cc9e8d09d6166ecc2f"
+          }
+        },
+        {
+          "client_id": "696212074153-buoqo55br769u8f7226nev6fdpmmdgbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjS0NhHrb_A5bKossA6tCX-0q2N96wojw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696212074153-d5uer9688mtgpch6pdkl10m42rkljb99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
