@@ -50,7 +50,7 @@ public class GoogleLogin : MonoBehaviour
         PlayGamesPlatform.DebugLogEnabled = true;
         PlayGamesPlatform.Activate();
         
-        FirebaseApp.DefaultInstance.SetEditorDatabaseUrl("https://trumper-d8030.firebaseio.com/");
+        FirebaseApp.DefaultInstance.SetEditorDatabaseUrl(ServerData.Data._FirebaseUrl);
         reference = FirebaseDatabase.DefaultInstance.RootReference;
         OnLogin();
 #else
